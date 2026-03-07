@@ -134,7 +134,7 @@ class _ProfileScreenState extends State<ProfileScreen> with SingleTickerProvider
                           textAlign: TextAlign.center,
                           style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold, color: textColor)),
                       const SizedBox(height: 8),
-                      Text('BSIT Student',
+                      Text('BSIT 3rd year Student',
                           textAlign: TextAlign.center,
                           style: TextStyle(fontSize: 22, color: blue, fontWeight: FontWeight.w600)),
                     ],
@@ -167,7 +167,7 @@ class _ProfileScreenState extends State<ProfileScreen> with SingleTickerProvider
                     'University of Science and Technology of Southern Philippines', 
                     '(2023 - Present)', 
                     'assets/ustp.png', 
-                    'I am presently enrolled here, pursuing a Bachelor of Science in Information Technology and focusing on completing my capstone project.', 
+                    'I am presently enrolled here, pursuing a Bachelor of Science in Information Technology currently 3rd year and focusing on completing my capstone project.', 
                     bgColor, textColor
                   ),
                   _buildTimelineItem(
